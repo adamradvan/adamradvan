@@ -1,5 +1,1 @@
-- 🌱 Aspiring software engineer with a strong passion for Java and the Spring framework ecosystem.
-- ☁️ Intrinsically motivated to explore cloud technologies, architectural design, and full-stack development.
-- 🔧 Committed to advancing skills and making a positive impact on innovative projects in the industry.
-- 🔨 Dedicated to refining and reviewing code to ensure a clean and efficient codebase.
-- 👥 Eager to gain experience from skilled co-workers and eager to share the knowledge with more junior colleagues.
+
